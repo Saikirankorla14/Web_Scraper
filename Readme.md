@@ -90,7 +90,7 @@ ai-web-scraper/
 | ----------------- | --------------------------------------- |
 | `GROQ_API_KEY`    | Your Groq API key                       |
 | `GROQ_MODEL`      | Model to use (default: llama3-70b-8192) |
-| `EMAIL_USER`      | Gmail address for sending alerts        |
+| `EMAIL_USER`      | Gmail address for sending alerts and get mails for reports generated      |
 | `EMAIL_PASS`      | Gmail app password                      |
 | `EMAIL_TO`        | Recipient email                         |
 | `SCRAPE_SCHEDULE` | Cron schedule (default: daily at 9am)   |
